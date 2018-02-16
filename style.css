@@ -1,0 +1,45 @@
+body{
+	background-image: url(Hospital1.jpg);
+	background-size: cover;
+}
+button{
+	align-self: center;
+}
+.btn {
+  font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 300px;
+  font-family: 'Montserrat', sans-serif;
+}
+.btn-primary {
+  background-color: #F05F44;
+  border-color: #F05F44; }
+
+.btn-primary:hover {
+  background-color: #ee4b08;
+  border-color: #ee4b08;
+  border-width: 5px;
+  cursor: pointer;
+}
+/*header.startup hr {
+  margin-top: 200px;
+  margin-bottom: 30px; 
+}*/
+.desc {
+	font-family: 'Nanum Pen Script', cursive;
+	font-size: 30px;
+}
+	
+h1{
+color: rgba(147, 254, 95,1);
+
+}
+.jumbotron{
+	background-color: rgb(0, 255, 212);
+}
+.display-4{
+	color: black;
+}
+img{
+	border-radius: 25px;
+}
